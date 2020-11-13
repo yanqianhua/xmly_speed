@@ -18,7 +18,7 @@ cookies1 = ""
 # 本地运行账号填写
 cookies2 = ""
 cookiesList = [cookies1, ]  # 多账号准备
-XMLY_ACCUMULATE_TIME = 0    # 希望刷时长的,此处置1
+XMLY_ACCUMULATE_TIME = 1    # 希望刷时长的,此处置1
 
 ###################################################
 # 对应方案1:  GitHub action自动运行,此处无需填写;
